@@ -27,6 +27,7 @@ class circle extends shape{
     }
 
 }
+//this is interheritance
 
 
 
